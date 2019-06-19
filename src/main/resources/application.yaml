@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: hh-wizard
+server:
+  port: 9090
+connection:
+  rest:
+    url: https://api.hh.ru
+    header: temp-app
